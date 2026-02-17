@@ -1,0 +1,14 @@
+quantities
+tqdm
+jupyter
+ipykernel
+numpy
+matplotlib
+colorcet
+pandas
+seaborn
+scipy
+h5py
+statsmodels
+PyWavelets
+neo
