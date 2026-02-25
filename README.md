@@ -1,6 +1,8 @@
 # ONeil_2026
 Code for generating figures in O'Neil et al. 2026 paper ("Temporal coding rather than circuit wiring...").
 
+Uses Python 3 and depends on the packages listed in `requirements.txt`.
+
 # About the raw data
 - Used to perform the in-vivo data analyses in the paper (last main text figure).
 - The in-vivo data were collected by Dino Dvorak in Fenton lab and used in Dvorak et al. 2021 ("Dentate spikes and external control...").
